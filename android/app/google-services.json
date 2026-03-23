@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "533245095161",
+    "project_id": "cses-8569f",
+    "storage_bucket": "cses-8569f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533245095161:android:c4a903a2912fa70d974628",
+        "android_client_info": {
+          "package_name": "com.example.cses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533245095161-6256edusgfok75ismvu8pi787kfqg2ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cses",
+            "certificate_hash": "f0c300ad9871a040d9a86b657be1e813217808fa"
+          }
+        },
+        {
+          "client_id": "533245095161-6ud8mvujflcpsmn073jaqmpe125hj07q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cses",
+            "certificate_hash": "58a2df2441739ae07e902bd133dc5588a97b9111"
+          }
+        },
+        {
+          "client_id": "533245095161-khm3q21ntrmoqti1gifjt3jrkp1jm6i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cses",
+            "certificate_hash": "99dbb9ce3fc58dd02ae7e2691d791f521de484d6"
+          }
+        },
+        {
+          "client_id": "533245095161-lefeo5rda81ft4kngdhstq1g5g8d2nnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cses",
+            "certificate_hash": "a04863588f1c590872ff7e94920de19489e22828"
+          }
+        },
+        {
+          "client_id": "533245095161-0eunhl1glkjibt29m1sc2aec1r3vptpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHIKPHVUkaGJStReTe1D_bMczVDDWXq5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533245095161-0eunhl1glkjibt29m1sc2aec1r3vptpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "533245095161-i2j20lgk45mp4q3uv65q18g61rsv97er.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cses2Fashionstore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
